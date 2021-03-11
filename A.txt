@@ -1,1 +1,1 @@
-A am'lumotlar file orqali gitHubga saqlandi va qayta yuklab olindi
+A am'lumotlar file orqali gitHubga saqlandi va qayta yuklab olindi, Va gitHub tomonidan qayta yuklandi
